@@ -1,0 +1,3 @@
+[submodule "my_stats_rest"]
+	path = my_stats_rest
+	url = https://github.com/leonardoigor/my_stats_rest.git
