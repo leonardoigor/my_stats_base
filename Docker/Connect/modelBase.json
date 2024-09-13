@@ -1,0 +1,19 @@
+{
+    "Weigth": 0.0,
+    "IMC": 0.0,
+    "FatPercentage": 0.0,
+    "FatWeight": 0.0,
+    "SkeletalMuscleMassPercentage": 0.0,
+    "WeightSkeletalMuscleMassPercentage": 0.0,
+    "MuscleMassRecordPercentage": 0.0,
+    "WaterPercentage": 0.0,
+    "WaterWeight": 0.0,
+    "VisceralFat": 0.0,
+    "Bones": 0.0,
+    "Metabolism": 0.0,
+    "ProteinPercentage": 0.0,
+    "ObesityPercentage": 0.0,
+    "MetabolicAge": 0.0,
+    "LBM": 0.0,
+    "Id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+}

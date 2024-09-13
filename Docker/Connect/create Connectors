@@ -1,0 +1,3 @@
+confluent-hub install mongodb/kafka-connect-mongodb:latest --component-dir /usr/share/confluent-hub-components
+confluent-hub install confluentinc/kafka-connect-elasticsearch:latest --component-dir /usr/share/confluent-hub-components
+confluent-hub install debezium/debezium-connector-mysql:latest --component-dir /usr/share/confluent-hub-components
